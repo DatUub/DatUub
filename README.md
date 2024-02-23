@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋  Hi, I'm Ari C. 
+* An 11th-grade student passionate about cybersecurity.
+* Leveling up my coding skills! (Current LVL: 17)
 
-<!--
-**DatUub/DatUub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Projects:**
 
-Here are some ideas to get you started:
+* **Math Wordle (TI-Nspire CX II Port):**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning:**
+
+* **Python:**
+* **Java:**
+
+**Let's Connect:**
+
+* **Discord:** Uub__
+* **Email:** personal@arisafari.me
