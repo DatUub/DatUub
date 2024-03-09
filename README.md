@@ -1,7 +1,7 @@
 ## 👋  Hi, I'm Ari C. 
 * An 11th-grade student passionate about cybersecurity.
 
-##(Current LVL: 17)
+## (Current LVL: 17)
 
 **Projects:**
 
