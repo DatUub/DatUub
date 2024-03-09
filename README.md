@@ -8,8 +8,8 @@
 
 **Learning:**
 
-* **Python:**
-* **Java:**
+* **Python**
+* **Java**
 
 **Let's Connect:**
 
