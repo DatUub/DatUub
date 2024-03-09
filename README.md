@@ -4,7 +4,7 @@
 
 **Projects:**
 
-* **Math Wordle (TI-Nspire CX II Port):**
+* **Math Wordle (TI-Nspire CX II Port)**
 
 **Learning:**
 
