@@ -1,6 +1,7 @@
 ## 👋  Hi, I'm Ari C. 
-* An 11th-grade student passionate about cybersecurity
-* (Current LVL: 17)
+* An 12th-grade student passionate about Computer Engineering.
+* Accepted into FAU for Pre-Engineering.
+* (Current LVL: 18)
 
 **Projects:**
 
