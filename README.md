@@ -8,8 +8,10 @@
 
 
 **Learning:**
-
 * **Python**
+
+Programming Languages I Know:
+* **JavaScript**
 * **Java**
 
 **Let's Connect:**
