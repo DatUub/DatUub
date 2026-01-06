@@ -1,4 +1,4 @@
-## 👋  Hi, I'm Ari C. 
+## 👋  Hi, I'm Ari
 * A Softmore @ FAU Stufyong CompEng
 * (Current LVL: 19)
 
