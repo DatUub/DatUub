@@ -1,5 +1,6 @@
 ## 👋  Hi, I'm Ari
-* A Softmore @ FAU Stufyong CompEng
+* Undergraduate Studying CompEng @ FAU
+* NSF LEARN SCHOLAR
 * (Current LVL: 19)
 
 **Projects:**
@@ -8,11 +9,13 @@
 
 **Learning:**
 * **Python**
+* **Rust**
 
 Programming Languages I Know:
 * **JavaScript**
 * **Java**
-
+* **C++**
+* **C#**
 **Let's Connect:**
 
 * **Discord:** Uub__
